@@ -8,7 +8,9 @@ This repository contains the complete **frontend** codebase — built with **Rea
 
 ## 🚀 Overview
 
-##🔗 Backend Repository: [devTinder Backend](https://github.com/Ujjawalkumar1/devTinder.git)
+## 🔗 **Backend Repository:**
+[devTinder Backend](https://github.com/Ujjawalkumar1/devTinder.git)
+
 
 This frontend provides:
 
