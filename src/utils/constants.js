@@ -1,8 +1,8 @@
-export const BASE_URL = "https://devtinder-b5aj.onrender.com";    // for deployment 
+//export const BASE_URL = "https://devtinder-b5aj.onrender.com";    // for deployment 
 
 //backend url render===>> (https://devtinder-b5aj.onrender.com)
 
-//export const BASE_URL = "http://localhost:3000";    // before deployment
+export const BASE_URL = "http://localhost:3000";    // before deployment
 
 
 
