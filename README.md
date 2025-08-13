@@ -8,9 +8,8 @@ This repository contains the complete **frontend** codebase — built with **Rea
 
 ## 🚀 Overview
 
-## 🔗 **Backend Repository:**
-[DevConnect Backend](https://github.com/Ujjawalkumar1/DevConnect.git)
-## 🔗 **Backend Repository:**  [devTinder Backend](https://github.com/Ujjawalkumar1/DevConnect.git)
+
+## 🔗 **Backend Repository:**  [DevConnect Backend](https://github.com/Ujjawalkumar1/DevConnect.git)
 
 
 
